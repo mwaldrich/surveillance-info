@@ -1,6 +1,6 @@
 # Sources for Power and Surveillance: The Card Game
 
-Here's a list of resources, news articles, privacy policies, and academic papers regarding surveillance in the digital world.
+**Here's a list of resources, news articles, privacy policies, and academic papers regarding surveillance in the digital world.**
 
 [1] From other groups in our class.
 
