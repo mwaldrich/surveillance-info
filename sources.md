@@ -1,4 +1,4 @@
-# Sources for Surveillance Card Game
+# Sources for Power and Surveillance: The Card Game
 
 [1] From other groups in our class.
 
